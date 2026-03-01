@@ -82,3 +82,7 @@ This notebook implements **McCall Job Search Model 1** with **discrete wage offe
 - `w_bar` / \(\bar w\): **reservation wage** (accept cutoff)
 - `accept_prob` / \(p\): probability an offer is acceptable under \(q(w)\)
 - “Model 1”: permanent job once accepted, no separations, offers i.i.d.
+
+- # Notebook 
+https://github.com/NaherLima/McCall-Job-Search-Model-1-Practice-Notebook/blob/main/McCall_Model%201.ipynb
+
